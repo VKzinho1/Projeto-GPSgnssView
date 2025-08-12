@@ -1,18 +1,17 @@
 📌 GPSgnssView
 
---Este repositório faz parte de um projeto acadêmico desenvolvido durante minha graduação em Engenharia de Software na Universidade Católica de Salvador.
+Este repositório faz parte de um projeto acadêmico desenvolvido durante minha graduação em Engenharia de Software na Universidade Católica de Salvador.
 
---O projeto foi originalmente hospedado no GitHub institucional da faculdade e estou migrando para meu GitHub pessoal como parte da organização e consolidação do meu portfólio.
+- O projeto foi originalmente hospedado no GitHub institucional da faculdade e estou migrando para meu GitHub pessoal como parte da organização e consolidação do meu portfólio.
 
 ⚠ Observação: Este projeto não possui código-fonte implementado, pois seu foco esteve nas etapas iniciais de desenvolvimento de software, como análise, modelagem e documentação.
 
 🎯 Objetivo do Projeto
 
-O projeto foi uma aplicação de uma esfera celeste, desenvolvida para rodar em dispositivos mobile, adicionando funções básicas como localização de objetos celestes e outras ferramentas auxiliares para observação astronômica.
+- O projeto foi uma aplicação de uma esfera celeste, desenvolvida para rodar em dispositivos mobile, adicionando funções básicas como localização de objetos celestes e outras ferramentas auxiliares para observação astronômica.
 
 🛠 Tecnologias e Conceitos Envolvidos
-Desenvolvimento de Aplicações Mobile
-
+- Desenvolvimento de Aplicações Mobile
 - Geolocalização
 - Mapeamento e rastreamento de objetos celestes
 - Interface de Usuário (UI) adaptada para dispositivos móveis

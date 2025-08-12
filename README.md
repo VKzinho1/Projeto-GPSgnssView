@@ -27,7 +27,7 @@ Durante o desenvolvimento deste projeto, pude:
 
 - Projetar uma interface amigável e adaptada para dispositivos móveis, priorizando usabilidade e clareza
 
-Organizar e documentar o projeto de forma estruturada, respeitando boas práticas da engenharia de software
+- Organizar e documentar o projeto de forma estruturada, respeitando boas práticas da engenharia de software
 
 🚀 Possíveis Futuras Implementações
 
